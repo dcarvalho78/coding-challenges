@@ -1,0 +1,1 @@
+For this set of challenges, we are going to teach our AI:Bot some basic maths skills such as how to count in 5 from 0 to 500 or how to count down from 100 to 0. We are also going to make our AI:Bot practise the times tables and recite the alphabet from A to
