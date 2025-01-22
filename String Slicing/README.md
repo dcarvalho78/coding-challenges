@@ -1,0 +1,1 @@
+String? In computer science, a string is a piece of text or a collection of characters. String Length? The length of a string represents the number of characters it contains. In pyhon you can use the function len() to find out the length of a string. pasword = input("Enter your password:") if len(password)
